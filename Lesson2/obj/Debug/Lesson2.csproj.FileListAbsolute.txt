@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\opilane\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\opilane\Desktop\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\opilane\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\opilane\Desktop\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
